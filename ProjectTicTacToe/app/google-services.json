@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "613584883343",
+    "firebase_url": "https://boardonline-cdb63.firebaseio.com",
+    "project_id": "boardonline-cdb63",
+    "storage_bucket": "boardonline-cdb63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613584883343:android:6c0fb474538f1f17",
+        "android_client_info": {
+          "package_name": "com.example.dell.projecttictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613584883343-4n1iucnqt7vkg81v7bnormlcdhdqjk6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuQFFWCYXwNWPTQNz_cuuZH78O4djrvtU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
